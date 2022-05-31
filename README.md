@@ -60,7 +60,7 @@ namespace ConsoleApp1
 ```
  
 ## Output:
-
+![ex6](https://user-images.githubusercontent.com/75235759/171278921-9100652e-7392-476d-b4b2-192185d108ba.JPG)
 ## Result:
 Thus the C# program to find the volume of a box using operator overloading is implemented successfully.
  
